@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "myReanimated_02",
+    "slug": "myReanimated_02",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "myReanimated_02"
+}
